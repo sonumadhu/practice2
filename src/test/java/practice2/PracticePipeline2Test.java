@@ -5,7 +5,9 @@ import org.testng.annotations.Test;
 
 public class PracticePipeline2Test {
 	
-	//changes by b2
+
+//hiiiiiiiiiii	
+
 	@Test()
 
 	public void practice1Test() {
